@@ -1,2 +1,4 @@
 flask
 black
+Flask-RESTful
+flask-jwt-extended
